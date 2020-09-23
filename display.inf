@@ -1,0 +1,21 @@
+[Default]
+ImageCount=0
+ImageFile1=C:\mydocu~1\mypict~1\winos.gif
+ImageLeft1=0
+ImageTop1=0
+ImageAutoSize1=True
+ImageWidth1=0
+ImageHeight1=0
+BackTransparent=True
+ShowAbout=False
+Left=2000
+Top=3000
+Height=4000
+Width=3000
+FontName=Verdana
+FontSize=8
+FontColor=16777215
+DisplayText=Time: time-hh time-nn time-ss\nDate: date-dd date-mm date-yyyy\ndate-dddd\n\nUptime:\nuptime-dd days\nuptime-hh hours\nuptime-mm mins\nuptime-ss secs\n\nmem-a\nmem-t\nmem-u\n\nprocessor-info\nwindows-ver\n\ncpu-usage-graphical
+UpdateInterval=1000
+CPUGraphicLeft=135
+CPUGraphicTop=3300
